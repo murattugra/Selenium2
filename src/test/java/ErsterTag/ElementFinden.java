@@ -39,6 +39,8 @@ public class ElementFinden {
 
         WebElement SubmitButton = driver.findElement(new By.ByCssSelector("button.btn"));
         SubmitButton.click();
+        driver.close();
+
 
 
     }
