@@ -21,9 +21,10 @@ public class day1 {
         driver.close();
         // driveri kapatiyorum
 
+
+
+
     }
-
-
 
 
 }
